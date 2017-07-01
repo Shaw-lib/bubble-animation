@@ -3,7 +3,7 @@
 
 &emsp;&emsp;codecademy看到的一个很有意思的动画效果。
 
-&emsp;&emsp;特效源码**[在这里](https://github.com/AlbionsRefuge/bubbles-faq/blob/master/gists/bubbles.js)**
+&emsp;&emsp;特效源码 [点这里](https://github.com/AlbionsRefuge/bubbles-faq/blob/master/gists/bubbles.js)
 
 &emsp;&emsp;“One of the important things to do when coding is to make sure you’re enjoying it! ”
 
