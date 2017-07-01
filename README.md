@@ -5,5 +5,5 @@
 
 &emsp;&emsp;“One of the important things to do when coding is to make sure you’re enjoying it! ”
 
-<img src="http://s3.amazonaws.com/codecademy-images/email/welcome-series/codecademy-animation-02sec.gif" width="400" height="400" alt="Animate your name"/>
+&emsp;&emsp;<img src="http://s3.amazonaws.com/codecademy-images/email/welcome-series/codecademy-animation-02sec.gif" width="400" height="400" alt="Animate your name"/>
 
